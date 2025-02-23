@@ -24,9 +24,11 @@ O funcionamento do **HC-SR04** se baseia no **tempo de resposta das ondas ultras
 4️⃣ **Conversão:** O tempo é convertido em **distância (cm)** e enviado ao microcontrolador.  
 
 ✅ **Fórmula utilizada:**  
-\[
-\text{Distância} = \frac{\text{Tempo do Eco} \times \text{Velocidade do Som}}{2}
-\]
+
+<p align="center">
+  <img src="../../assets/formula_ultrassonico.png" alt="Sensor Ultrassônico HC-SR04" width="400">
+</p>
+
 📏 O sensor pode detectar objetos a uma distância de **2 cm a 4 metros**!  
 
 ---
@@ -59,7 +61,7 @@ O **Sensor Ultrassônico HC-SR04** está **diretamente conectado ao Raspberry Pi
 1️⃣ O **HC-SR04** detecta um obstáculo próximo.  
 2️⃣ A **distância é enviada ao Raspberry Pi Pico W**.  
 3️⃣ Se o obstáculo estiver a **≤ 15 cm**, o **buzzer emite um alerta sonoro**.  
-4️⃣ O **display OLED exibe a distância** e a **Matriz de LEDs acende** para alertar terceiros.  
+4️⃣ O **display OLED exibe a distância** e a **Matriz de LEDs acende** para alertar terceiros (quando o usuário habilitá-la pressionando o botão `A`).  
 
 ---
 

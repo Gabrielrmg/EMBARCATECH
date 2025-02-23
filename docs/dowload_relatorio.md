@@ -18,11 +18,11 @@ Aqui você pode baixar o **Relatório Geral** consolidado do projeto **BR SmartG
   </thead>
   <tbody>
     <tr>
-      <td><a href="../assets/U7T_GMR.pdf">Relatório Geral</a></td>
+      <td><a href="assets/U7T_GMR.pdf">Relatório Geral</a></td>
       <td>Documento consolidado contendo todas as informações do projeto.</td>
       <td style="text-align: center; vertical-align: middle;">
-        <a href="../assets/U7T_GMR.pdf" download>
-          <img src="../assets/gif/dowload.gif" alt="Download" style="width: 24px; height: 24px; display: block; margin: 0 auto;">
+        <a href="assets/U7T_GMR.pdf" download>
+          <img src="assets/gif/dowload.gif" alt="Download" style="width: 24px; height: 24px; display: block; margin: 0 auto;">
         </a>
       </td>
     </tr>
@@ -30,5 +30,5 @@ Aqui você pode baixar o **Relatório Geral** consolidado do projeto **BR SmartG
 </table>
 
 <div style="text-align: center;">
-  <img src="../assets/gif/PDF.gif" alt="Relatório Geral">
+  <img src="assets/gif/PDF.gif" alt="Relatório Geral">
 </div>

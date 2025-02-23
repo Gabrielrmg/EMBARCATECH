@@ -1,6 +1,6 @@
 # 🛒 BR SmartGuia
 
-O **BR SmartGuia** é um dispositivo assistivo projetado para auxiliar **pessoas com deficiência visual** em ambientes urbanos e comerciais. Ele combina tecnologia embarcada com sensores inteligentes para melhorar a **segurança e a autonomia** do usuário.
+O **BR SmartGuia** é um dispositivo assistivo projetado para auxiliar **pessoas com deficiência visual** em ambientes urbanos e comerciais. Ele combina tecnologia embarcada com sensores para melhorar a **segurança e a autonomia** do usuário.
 
 ## 📸 Imagens do Produto
 
