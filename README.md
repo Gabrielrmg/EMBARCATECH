@@ -38,7 +38,7 @@ A organização dos arquivos no projeto segue uma estrutura modular para facilit
 
 ## 📌 Sobre o Firmware
 
-O **BR SmartGuia** utiliza sensores e atuadores para fornecer feedback sonoro, para o usuário cego, e visual, para eventuais terceiros. O firmware é desenvolvido em **C**, utilizando o **Raspberry Pi Pico SDK**.
+O **BR SmartGuia** utiliza sensores para fornecer feedback sonoro, para o usuário cego, e visual, para eventuais terceiros. O firmware é desenvolvido em **C**, utilizando o **Raspberry Pi Pico SDK**.
 
 ### ⚙️ Funcionalidades Implementadas:
 
