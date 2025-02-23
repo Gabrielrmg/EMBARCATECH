@@ -42,8 +42,7 @@ O **Display OLED SSD1306** é um dos módulos mais importantes do **BR SmartGuia
 
 📟 **O que o display exibe?**  
 ✅ A **distância** do obstáculo detectado pelo **Sensor Ultrassônico HC-SR04** 📏  
-✅ Mensagens de **status do carrinho** 🚦  
-✅ Informações de **alerta e navegação** 🚶‍♂️  
+✅ Mensagens de **status do carrinho** 🚦
 
 Isso torna o **BR SmartGuia mais acessível**, permitindo que o usuário tenha um **feedback visual imediato** sobre os obstáculos ao redor.  
 
