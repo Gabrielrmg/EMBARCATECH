@@ -1020,11 +1020,12 @@
 2️⃣ <strong>Reflexão:</strong> A onda atinge um obstáculo e retorna para o sensor.<br />
 3️⃣ <strong>Cálculo da Distância:</strong> O pino <strong>Echo</strong> mede o tempo que a onda demorou para voltar.<br />
 4️⃣ <strong>Conversão:</strong> O tempo é convertido em <strong>distância (cm)</strong> e enviado ao microcontrolador.  </p>
-<p>✅ <strong>Fórmula utilizada:</strong><br />
-[
-\text{Distância} = \frac{\text{Tempo do Eco} \times \text{Velocidade do Som}}{2}
-]
-📏 O sensor pode detectar objetos a uma distância de <strong>2 cm a 4 metros</strong>!  </p>
+<p>✅ <strong>Fórmula utilizada:</strong>  </p>
+<p align="center">
+  <a class="glightbox" href="../../assets/formula_ultrassonico.png" data-type="image" data-width="auto" data-height="auto" data-desc-position="bottom"><img src="../../assets/formula_ultrassonico.png" alt="Sensor Ultrassônico HC-SR04" width="400"></a>
+</p>
+
+<p>📏 O sensor pode detectar objetos a uma distância de <strong>2 cm a 4 metros</strong>!  </p>
 <hr />
 <h2 id="3-qual-o-papel-dele-no-br-smartguia">🎯 <strong>3. Qual o papel dele no BR SmartGuia?</strong></h2>
 <p>No projeto, o <strong>HC-SR04</strong> tem um papel essencial para a mobilidade segura do usuário:  </p>
@@ -1069,7 +1070,7 @@
 1️⃣ O <strong>HC-SR04</strong> detecta um obstáculo próximo.<br />
 2️⃣ A <strong>distância é enviada ao Raspberry Pi Pico W</strong>.<br />
 3️⃣ Se o obstáculo estiver a <strong>≤ 15 cm</strong>, o <strong>buzzer emite um alerta sonoro</strong>.<br />
-4️⃣ O <strong>display OLED exibe a distância</strong> e a <strong>Matriz de LEDs acende</strong> para alertar terceiros.  </p>
+4️⃣ O <strong>display OLED exibe a distância</strong> e a <strong>Matriz de LEDs acende</strong> para alertar terceiros (quando o usuário habilitá-la pressionando o botão <code>A</code>).  </p>
 <hr />
 <h3 id="resumo-do-sensor-ultrassonico-hc-sr04-no-br-smartguia">🚀 <strong>Resumo do Sensor Ultrassônico HC-SR04 no BR SmartGuia</strong></h3>
 <p>✅ <strong>Detecção precisa</strong> de obstáculos em tempo real.<br />
