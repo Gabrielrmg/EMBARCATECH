@@ -47,4 +47,4 @@ A documentação é hospedada no **GitHub Pages** e gerada automaticamente pela 
 ```bash
 mkdocs gh-deploy
 ```
-Isso irá gerar os arquivos estáticos e publicá-los na branch `gh-deploy`.
+Isso irá gerar os arquivos estáticos e publicá-los na branch [`gh-deploy`](https://github.com/Gabrielrmg/EMBARCATECH/tree/gh-pages?tab=readme-ov-file).
