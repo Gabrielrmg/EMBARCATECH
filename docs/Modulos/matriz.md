@@ -63,10 +63,9 @@ A **Matriz de LEDs RGB 5x5** trabalha em conjunto com os outros módulos para fo
 | **Raspberry Pi Pico W** | Controla os padrões visuais exibidos. 🖥 |
 
 📌 **Fluxo de funcionamento da matriz:**  
-1️⃣ O usuário **pressiona um botão** para ativar/desativar a matriz.  
+1️⃣ O usuário **pressiona um botão `A`** para ativar ou **`B`** para desativar a matriz.  
 2️⃣ O **Raspberry Pi Pico W** processa o comando e aciona os LEDs.  
 3️⃣ O **display OLED exibe o status** da matriz (ativada/desativada).  
-4️⃣ Se necessário, os **LEDs piscam em sincronia com o buzzer** para reforçar alertas.  
 
 ---
 

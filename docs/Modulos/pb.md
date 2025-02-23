@@ -69,7 +69,6 @@ O **Power Bank** é o **ponto central de alimentação** do sistema, garantindo 
 1️⃣ O usuário **liga o BR SmartGuia** conectando o Power Bank.  
 2️⃣ O **Raspberry Pi Pico W recebe energia** e distribui para os módulos.  
 3️⃣ Todos os sensores e atuadores começam a funcionar.  
-4️⃣ Quando a bateria estiver fraca, o sistema pode alertar o usuário.  
 
 ---
 
