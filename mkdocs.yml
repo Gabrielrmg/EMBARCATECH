@@ -1,0 +1,38 @@
+site_name: EMBARCATECH
+
+nav:
+  - Sobre: index.md
+  - Produto: Produto/index.md
+  - Modulos:
+    - Ultrassônico: Modulos/ultrassonico.md
+    - OLED: Modulos/oled.md
+    - Buzzer: Modulos/buzzer.md
+    - Botão: Modulos/botao.md
+    - Matriz de LEDs RGB: Modulos/matriz.md
+    - Raspberry Pi Pico W: Modulos/rasp.md
+    - Power Bank: Modulos/pb.md
+  - Firmware:
+    - Introdução: Firmware/index.md
+    - Ambiente de Desenvolvimento: Firmware/ambiente.md
+    - Estrutura do Código: Firmware/estrutura.md
+    - Bibliotecas Utilizadas: Firmware/bibliotecas.md
+    - API do Firmware: Firmware/api.md
+    - Instalação e Compilação: Firmware/instalacao.md
+    - Exemplos Práticos: Firmware/exemplos.md
+    - Depuração e Testes: Firmware/depuracao.md
+  - Referências: Referencias/ref.md
+  - Relatório: dowload_relatorio.md
+
+
+theme:
+  name: material
+  logo: assets/img/logo.png
+  features:
+    - navigation.tabs
+  
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - glightbox
+  - search
