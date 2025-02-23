@@ -6,7 +6,7 @@
   <img src="assets/img/Gabriel.jpeg" alt="Gabriel Martins Ribeiro" width="200">
 </p>  
 
-Olá! Sou **Gabriel Martins Ribeiro**, engenheiro eletrônico formado pela **FCTE - UnB**, com experiência em **biomédica** e **sistemas embarcados**.  
+Olá! Sou **Gabriel Martins Ribeiro**, engenheiro eletrônico formado pela [**FCTE - UnB**](https://fcte.unb.br/), com experiência em **biomédica** e **sistemas embarcados**.  
 
 ---
 
