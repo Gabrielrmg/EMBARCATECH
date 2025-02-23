@@ -50,4 +50,4 @@ O **BR SmartGuia** utiliza sensores e atuadores para fornecer feedback sonoro, p
 
 ---
 
-📌 Para mais detalhes, consulte a documentação no [site](https://gabrielrmg.github.io/EMBARCATECH/) ou na branch [gh-deploy](https://github.com/Gabrielrmg/EMBARCATECH/tree/gh-pages). 🚀
+📌 Para mais detalhes, consulte a documentação no [site](https://gabrielrmg.github.io/EMBARCATECH/) ou na branch [`EditarSite`](https://github.com/Gabrielrmg/EMBARCATECH/tree/EditarSite?tab=readme-ov-file). 🚀
