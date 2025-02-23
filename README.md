@@ -15,7 +15,7 @@ Bem-vindo ao repositório do **BR SmartGuia**! Este projeto foi desenvolvido par
 
 Este repositório está dividido em duas branches principais:
 
-- **`main`**: Contém todo o código-fonte do firmware, incluindo os arquivos para sensores, display OLED, matriz de LEDs e integração com o Raspberry Pi Pico.
+- **`main`**: Contém todo o código-fonte do firmware, incluindo os arquivos para sensores, display OLED, matriz de LEDs e integração com o Raspberry Pi Pico W.
 - **`gh-deploy`**: Contém a documentação do projeto, gerada via **MkDocs**, e é usada para publicação do site.
 
 ---
