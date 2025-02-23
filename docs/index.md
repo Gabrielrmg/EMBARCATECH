@@ -14,7 +14,7 @@ Olá! Sou **Gabriel Martins Ribeiro**, engenheiro eletrônico formado pela **FCT
 
 Este projeto é um **sistema de tecnologia assistiva**, desenvolvido para auxiliar **pessoas com deficiência visual** na navegação no ambiente através de **estímulos auditivos**.  
 
-🔹 **Tecnologia:** Placa **Raspberry Pi** e sensores periféricos  
+🔹 **Tecnologia:** Placa **Raspberry Pi Pico W** e sensores periféricos  
 🔹 **Linguagem:** **C**  
 🔹 **Funcionalidade:** Detecção de obstáculos e feedback sonoro  
 
